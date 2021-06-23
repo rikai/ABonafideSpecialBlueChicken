@@ -1,4 +1,4 @@
-namespace AVerySpecialBlueChicken
+namespace ABonafideSpecialBlueChicken
 {
     internal class Config
     {

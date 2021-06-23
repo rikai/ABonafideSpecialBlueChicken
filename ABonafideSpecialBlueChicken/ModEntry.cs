@@ -6,7 +6,7 @@ using StardewModdingAPI.Events;
 using StardewValley;
 using StardewValley.Buildings;
 
-namespace AVerySpecialBlueChicken
+namespace ABonafideSpecialBlueChicken
 {
     public class ModEntry : Mod
     {
