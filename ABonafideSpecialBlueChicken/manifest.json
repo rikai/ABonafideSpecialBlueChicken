@@ -6,5 +6,5 @@
   "UniqueID": "rikai.abonafidespecialbluechicken",
   "EntryDll": "ABonafideSpecialBlueChicken.dll",
   "MinimumApiVersion": "3.3.0",
-  "UpdateKeys": [ "Nexus:" ]
+  "UpdateKeys": [ "Nexus:8979" ]
 }
